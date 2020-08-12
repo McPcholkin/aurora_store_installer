@@ -1,6 +1,6 @@
 # Aurora Store installer for magisk
 
-This module NOT containing Aurora Store APK, you can find it by yoursellf and put inside /system/priv-app/com.aurora.store/ directory.
+This module NOT containing [Aurora Store](https://gitlab.com/AuroraOSS/AuroraStore) APK, you can find it by yoursellf and put inside /system/priv-app/com.aurora.store/ directory.
 
 ## How to make magisk module:
 - Clone repo (or download as zip)
